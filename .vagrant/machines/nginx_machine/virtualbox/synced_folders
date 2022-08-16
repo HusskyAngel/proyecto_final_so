@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/share/nginx/www":{"create":true,"guestpath":"/usr/share/nginx/www","hostpath":"/home/hussky/Escritorio/proyecto_so/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/hussky/Escritorio/proyecto_so","disabled":false,"__vagrantfile":true}}}
